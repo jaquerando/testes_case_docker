@@ -1,0 +1,8 @@
+google-cloud-storage
+gcsfs
+great_expectations
+pandas
+google-cloud-bigquery
+apache-airflow
+fastapi
+uvicorn
